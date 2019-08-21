@@ -1,0 +1,1 @@
+# docker-python36-node-10-awscli
